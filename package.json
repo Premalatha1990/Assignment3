@@ -1,0 +1,16 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "assignment3 submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "premalatha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "promise": "^8.1.0",
+    "request": "^2.88.2"
+  }
+}
